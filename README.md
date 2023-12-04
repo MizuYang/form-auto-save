@@ -1,3 +1,5 @@
+<a href="https://mizuyang.github.io/form-auto-save/#/">Demo</a>
+
 <ol>
   <li>表單輸入文字後 1秒內未操作, 就會自動儲存 (debounce)</li>
   <li>此處模擬 AJAX 非同步3秒後才儲存完畢, 並顯示儲存成功提示</li>
